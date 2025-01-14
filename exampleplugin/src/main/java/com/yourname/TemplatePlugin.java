@@ -1,6 +1,6 @@
-package com.kasejohnson;
+package com.yourname;
 
-public class Main {
+public class TemplatePlugin {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
